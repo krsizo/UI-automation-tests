@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests_selenide_with_pom.CheckboxesPageTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-06-22T15:50:27" hostname="LAPTOP-0JOO7M6S" time="5.418">
+  <properties/>
+  <testcase name="canSelectAllCheckboxes()" classname="tests_selenide_with_pom.CheckboxesPageTests" time="5.418"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+Starting ChromeDriver 114.0.5735.90 (386bc09e8f4f2e025eddae123f36f6263096ae49-refs/branch-heads/5735@{#1052}) on port 33993
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Jun 22, 2023 6:50:29 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 114, so returning the closest version found: 110
+]]></system-err>
+</testsuite>
